@@ -1,5 +1,5 @@
 # Pertamina-Stock-Prediction
-In this project, I am developing an advanced analytical framework to evaluate Pertamina stock performance over the last three months. The goal is to leverage time-series analysis techniques to gain insights into stock price trends, volatility, and market behavior.
+In this project, I am developing an advanced Prediction Analysis using Machine Learning to evaluate Pertamina's future stock performance by using time-series analysis techniques to gain insights into Pertamina's stock price trends and market behavior.
 
 # How to Predict the Model
 1. Download and open the file named Predict_Stock_Pertamina.ipynb
