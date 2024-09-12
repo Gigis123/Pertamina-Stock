@@ -7,8 +7,8 @@ In this project, we are developing an advanced analytical framework to evaluate 
 2. Navigate to the Inference Part similar to the picture below
 ![A Inference Picture](Inference.jpg)
 
-3. Change the code 'steps' in (forecast = arima.forecast(steps=X) and forecast_results = arima.get_forecast(steps=12)) depending on the forecasting duration (example in the code is 12)
+3. Change the code 'steps' in (forecast = arima.forecast(steps=12) and forecast_results = arima.get_forecast(steps=12)) depending on the forecasting duration (example in the code is 12)
 
-4. You can also change the code (forecast['2024-09-20':]) and input your own date if you want to predict a specific date
+4. You can also change the code (forecast['2024-09-20':]) and input your own date if you want to predict a specific date (example in the code is 2024-09-20)
 
 5. Restart and run the code again
